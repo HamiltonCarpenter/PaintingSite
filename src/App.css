@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  /* height: 40vmin; */
   pointer-events: none;
 }
 
@@ -23,11 +23,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.main-heading {
+  /* textAlign: center; doesnt work */
+  padding-Left: 3%;
+}
 .App-link {
   color: #61dafb;
 }
 
+.body {
+  text-align: center;
+}
+
+/*.main-container {
+  backgroundSize: 'cover';
+  backgroundRepeat: 'no-repeat';
+  }
+*/
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +48,4 @@
     transform: rotate(360deg);
   }
 }
+
