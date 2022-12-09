@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PaintingSite/static/css/main.45babf18.css",
+    "main.js": "/PaintingSite/static/js/main.4b5c8645.js",
+    "static/js/787.932e3cf5.chunk.js": "/PaintingSite/static/js/787.932e3cf5.chunk.js",
+    "static/media/ttsmodels.jpg": "/PaintingSite/static/media/ttsmodels.c7365d44305bd97d06dd.jpg",
+    "static/media/paintinglessons.jpeg": "/PaintingSite/static/media/paintinglessons.1d0bf1248d893ab3d359.jpeg",
+    "static/media/dreadnaut_frontal.jpg": "/PaintingSite/static/media/dreadnaut_frontal.fce163d61247b10f9f23.jpg",
+    "static/media/newworld.webp": "/PaintingSite/static/media/newworld.cb7c135520e3ea2c1a89.webp",
+    "index.html": "/PaintingSite/index.html",
+    "main.45babf18.css.map": "/PaintingSite/static/css/main.45babf18.css.map",
+    "main.4b5c8645.js.map": "/PaintingSite/static/js/main.4b5c8645.js.map",
+    "787.932e3cf5.chunk.js.map": "/PaintingSite/static/js/787.932e3cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45babf18.css",
+    "static/js/main.4b5c8645.js"
+  ]
+}
