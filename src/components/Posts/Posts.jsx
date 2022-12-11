@@ -19,7 +19,8 @@ const Posts = () => {
     {
       title: "Digital Artwork",
       body: `A lot of modern wargamming happens on Tabletop Simulator. You can easily play games with people from 
-      around the world without ever leaving your house. The downside is that everyone's models look the same,   `,
+      around the world without ever leaving your house. The downside is that everyone's models look the same, 
+      except for yours!  `,
       author: "Monu Kr",
       imgUrl:
         ttsImage,
@@ -28,7 +29,7 @@ const Posts = () => {
       title: "Lessons ",
       body: `You might prefer to learn how to paint better or how to work with digital modeling sofware. 
       These skills will last a lifetime and provide you with a relaxing hobby. Luckily for you, Benji is 
-      a professional teacher in addition to being an award winning artist!`,
+      a professional teacher in addition to an award winning artist!`,
       author: "Suresh Kr",
       imgUrl:
         lessonImage,

@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.main-heading{
+  text-align: center;
+}
+
+.heading-container{
+  background: rgba(30, 30, 30, .5);
+  /*display: flex;
+  flex-direction: row;*/
+  padding: 1%;
+  margin: 0 2%; 
+}
+.heading-spacer{
+  background: rgba(30, 30, 30, 0);
+  padding-top: 3%;
+}
+
 .App-logo {
   /* height: 40vmin; */
   pointer-events: none;
@@ -33,6 +49,20 @@
 
 .body {
   text-align: center;
+}
+
+.Ben-Info {
+  background: rgba(144, 118, 99, 1);
+    padding: 1%;
+    /*padding-Bottom: 3%;
+
+    padding: 3%;*/
+    margin: 0 2%; 
+}
+.Ben-Info-Spacer {
+  background: rgba(144, 118, 99, 0);
+    padding: 3%;
+    /*padding-Bottom: 3%;*/
 }
 
 /*.main-container {
