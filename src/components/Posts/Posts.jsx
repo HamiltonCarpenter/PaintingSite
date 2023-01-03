@@ -17,7 +17,7 @@ const Posts = () => {
         /*"/home/ham/Documents/NodeProjects/blog_site/resources/dreadnaut_frontal.jpg",*/
     },
     {
-      title: "Digital Artwork",
+      title: "Digital Modeling",
       body: `A lot of modern wargamming happens on Tabletop Simulator. You can easily play games with people from 
       around the world without ever leaving your house. The downside is that everyone's models look the same, 
       except for yours!  `,
@@ -25,6 +25,7 @@ const Posts = () => {
       imgUrl:
         ttsImage,
     },
+    /*
     {
       title: "Lessons ",
       body: `You might prefer to learn how to paint better or how to work with digital modeling sofware. 
@@ -34,7 +35,7 @@ const Posts = () => {
       imgUrl:
         lessonImage,
     },
-    /*{
+    {
       title: "Free Consultations",
       body: `The price for each contract depends on the complexity of the model, the complexity of the desired paint job, 
       as well as the quanity and size of the figures to be painted. To get an idea of when `, 
